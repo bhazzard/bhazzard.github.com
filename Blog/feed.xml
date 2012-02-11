@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  <id>urn:iweb:CE1D8782-F952-4A4A-A2D7-7BFEBF369E16</id>
  <title>Page list Atom feed</title>
- <updated>2012-02-11T18:17:04-05:00</updated>
+ <updated>2012-02-11T18:36:20-05:00</updated>
  <link rel="self" href="feed.xml"/>
  <generator>iWeb</generator>
  <author>
@@ -14,7 +14,7 @@
   <title xmlns="urn:iweb:">Hazzard's Hypotheses</title>
   <in-navbar xmlns="urn:iweb:">D87177DF-28F8-40EF-8894-ED0AC49E60FA</in-navbar>
   <link rel="alternate" href="Hazzards_Hypotheses/Hazzards_Hypotheses.html"/>
-  <updated>2012-02-11T18:17:04.001-05:00</updated>
+  <updated>2012-02-11T18:36:20.001-05:00</updated>
   <content>Hazzard's Hypotheses</content>
  </entry>
 </feed>

@@ -408,15 +408,15 @@ ol  {
           text-transform:none ;
           border: none;          
         }
-#widget1 a {
-    color: rgb(183, 97, 78);
-    text-decoration: none;
+.bumper {
+    font-size: 1px;
+    line-height: 1px;
+}
+.tinyText {
+    font-size: 1px;
+    line-height: 1px;
 }
 #widget0 a:hover {
-    color: rgb(224, 133, 102);
-    text-decoration: none;
-}
-#widget1 a:hover {
     color: rgb(224, 133, 102);
     text-decoration: none;
 }
@@ -428,19 +428,7 @@ ol  {
     color: rgb(183, 97, 78);
     text-decoration: none;
 }
-#widget1 a:visited {
-    color: rgb(66, 66, 66);
-    text-decoration: none;
-}
 .spacer {
-    font-size: 1px;
-    line-height: 1px;
-}
-.tinyText {
-    font-size: 1px;
-    line-height: 1px;
-}
-.bumper {
     font-size: 1px;
     line-height: 1px;
 }
