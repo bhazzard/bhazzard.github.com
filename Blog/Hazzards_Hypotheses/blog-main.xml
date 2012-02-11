@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Hazzard's Hypotheses</title>
+    <link>http://brianhazzard.com/Blog/Hazzards_Hypotheses</link>
+    <description>I am a software professional and independent musician. I jump head first into new interests, without apology. Right now I&#x2019;m interested in modern web technologies, designer board games, and Virginia wines.
+I live in the small town of Blacksburg, VA with my beautiful wife Crystal, and my evil cat Spencer. This is my story.</description>
+    <item>
+      <title>The Post that Started it All</title>
+      <link>http://brianhazzard.com/Blog/Hazzards_Hypotheses/Entries/2012/2/11_The_Post_that_Started_it_All.html</link>
+      <guid isPermaLink="false">33ce4182-ec72-4de2-b762-55dd1a1d0edb</guid>
+      <pubDate>Sat, 11 Feb 2012 16:52:26 -0500</pubDate>
+      <description>&#x201C;Who the hell are you?&#x201D;&lt;br/&gt;First of all, the title of this post isn&#x2019;t quite right. It implies that I created something important, relevant, and meaningful, and that this post is responsible for that something&#x2019;s existence. Well, I&#x2019;ve created a lot of things, and I&#x2019;d like to think that some of those things are important, relevant or meaningful. But certainly, nothing I&#x2019;ve done has been all three.&lt;br/&gt;&lt;br/&gt;Rather the title was quite arbitrary, but it&#x2019;s contents will not be. My intention is to introduce myself, and so that&#x2019;s what I shall do: My name is Brian Hazzard (just Hazzard to most people). I&#x2019;m a software professional, an independent musician, and a board gamer. And that&#x2019;s what this blog will be all about: my life, my career in technology, my music, and my enjoyment of board games.&lt;br/&gt;&lt;br/&gt;&#x201C;Why write another boring blog?&#x201D;&lt;br/&gt;Well, I hope it won&#x2019;t be boring. Honestly, I&#x2019;m a pretty opinionated guy, and lots of my opinions don&#x2019;t jive with common thinking. For example, here are a few of my opinions that future posts will touch on:&lt;br/&gt;&lt;br/&gt;	-	Almost everyone who thinks they know what a REST API is all about, is dead wrong. I&#x2019;ll offer insights (that I&#x2019;ve synthesized from people smarter than me) about what I think is wrong with your API, what you can do differently, and why it will change your life.&lt;br/&gt;	-	Board games are WAY cooler than video games. They facilitate deep and meaningful social interactions, stimulate strategic and tactical thought, and have more replay value than any video game.&lt;br/&gt;	-	The world is heading towards open information. Copyrights, patents, and other such protections will eventually be impossible to enforce. And you know what? The world will be a better place for it.&lt;br/&gt;&lt;br/&gt;I encourage any reader to comment when I say something that you think is particularly ingenious, idiotic, or bizarre. However I do reserve the right to remove comments that are offensive or do not pertain to the discussion at hand.</description>
+      <iweb:image href="Media/object009.jpg"></iweb:image>
+      <iweb:comment enabled="0" count="0" link="http://brianhazzard.com/Blog/Hazzards_Hypotheses/Entries/2012/2/11_The_Post_that_Started_it_All.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>M/d/yy</iweb:dateFormat>
+    <iweb:baseURL>http://brianhazzard.com/Blog/Hazzards_Hypotheses</iweb:baseURL>
+    <iweb:maximumSummaryItems>10</iweb:maximumSummaryItems>
+  </channel>
+</rss>
