@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Blog</title>
+    <link>http://brianhazzard.com/Brian_Hazzards_Blog/Blog</link>
+    <description>I am a software professional and independent musician. I jump head first into new interests, without apology. Right now I&#x2019;m interested in modern web technologies, designer board games, and Virginia wines.
+I live in the small town of Blacksburg, VA with my beautiful wife Crystal, and my evil cat Spencer. This is my story.</description>
+    <item>
+      <title>The Post that Started it All</title>
+      <link>http://brianhazzard.com/Brian_Hazzards_Blog/Blog/Entries/2012/2/11_The_Post_that_Started_it_All.html</link>
+      <guid isPermaLink="false">33ce4182-ec72-4de2-b762-55dd1a1d0edb</guid>
+      <pubDate>Sat, 11 Feb 2012 16:52:26 -0500</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://brianhazzard.com/Brian_Hazzards_Blog/Blog/Entries/2012/2/11_The_Post_that_Started_it_All.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>M/d/yy</iweb:dateFormat>
+    <iweb:baseURL>http://brianhazzard.com/Brian_Hazzards_Blog/Blog</iweb:baseURL>
+    <iweb:maximumSummaryItems>10</iweb:maximumSummaryItems>
+  </channel>
+</rss>
