@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hazzard's Hypotheses!
+title: Hazzard's Hypotheses
 ---
 <ul class="posts">
   {% for post in site.posts %}
