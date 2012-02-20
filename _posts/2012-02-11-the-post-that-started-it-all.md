@@ -1,7 +1,7 @@
 ---
 layout: post
 category : blog
-tags : [life]
+tags : [blog]
 ---
 
 #"Who the hell are you?"#
