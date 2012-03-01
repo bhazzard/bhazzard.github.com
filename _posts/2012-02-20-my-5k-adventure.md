@@ -14,7 +14,7 @@ So on Saturday, when I showed up at the school where the race would be started
 and saw enthusiastic and seasoned runners, I felt a little out of place. Luckily
 as time went by and my wife and friends waited for the event to start, I saw
 fellow renegade couch potatoes begin to trickle in. Some even had a body shape
-that was less [Rosie Huntington](http://www.wordsaboutthings.co.uk/wp-content/uploads/2010/06/rosie-huntington-whiteley-transformers.jpg),
+that was less [Rosie Huntington-Whitely](http://www.wordsaboutthings.co.uk/wp-content/uploads/2010/06/rosie-huntington-whiteley-transformers.jpg),
 and more [Rosie O'Donnell](http://3.bp.blogspot.com/-RY-nwD2NQHs/TukrcaGWpcI/AAAAAAAAAjg/VJHl7Z1Ekr8/s1600/rosie-odonnell.jpg).
 
 I'm not making fun. Actually, I found it inspiring. If you didn't know this,
