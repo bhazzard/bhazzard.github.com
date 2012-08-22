@@ -22,9 +22,9 @@ to do the same thing.
 Even More Amazing People
 ------------------------
 On top of entusiastic participants, we have built a team of extremely knowledgeable
-and talented mentors to help guid you along your path. We're talking social media
+and talented mentors to help guide you along your path. We're talking social media
 guru's, business law professionals, expert software developers, designers, and
-business moguls. And their sole job for the weekend, is to help you succeed.
+business moguls. And their only job for the weekend, is to help you succeed.
 
 Awesome Opportunities
 ---------------------
@@ -36,10 +36,11 @@ At our event, we will have some high profile individuals who are well connected
 in the world of angel investors, venture capitalists, and funds. If your idea
 needs dollars to make it a reality, this is a great event to help you get exposure.
 
-Furthermore, the winning team will get a chance to pitch at "Small Bucks, Big
-Bang!". This is an event being held later in September, where among others you
-can pitch your business to  Ian Sobieski, founder and managing director of Band
-of Angels, "Silicon Valley's oldest seed funding organization."
+Furthermore, the winning team will get a chance to pitch at ["Small Bucks, Big
+Bang!"](http://www.nextthreedays.com/FeaturedEventDetails.cfm?E=116151). This is
+an event being held later in September, where among others you can pitch your
+business to  Ian Sobieski, founder and managing director of Band of Angels,
+"Silicon Valley's oldest seed funding organization."
 
 Be There!
 ---------
