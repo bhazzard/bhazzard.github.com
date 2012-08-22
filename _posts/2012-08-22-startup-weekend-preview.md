@@ -1,6 +1,6 @@
 ---
 layout: post
-category : business, projects, startups
+category : startups
 tags : [startup-weekend]
 ---
 
