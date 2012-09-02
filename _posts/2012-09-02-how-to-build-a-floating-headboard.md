@@ -10,6 +10,8 @@ me, all it would take to liven up the mood is a new headboard.
 
 Eww, you thought I was talking about our sexlife? No, I'm talking home decor!
 
+![Headboard](/assets/images/headboard.JPG "The Finished Product")
+
 Shaking Things Up
 -----------------
 Crystal wanted a headboard, and I wanted to save money. So we set out with the
@@ -44,9 +46,3 @@ Wow, that was Easy!
 We slapped a couple command strips on each board and on the wall, and we were
 done. No drilling, screwing, or hammering required! Huge home decor BANG for
 very little BUCK. Easy projects tend to be fun projects.
-
-The Finished Product
---------------------
-What do you think of our results?
-
-![Headboard](/assets/images/headboard.JPG "The Finished Product")
