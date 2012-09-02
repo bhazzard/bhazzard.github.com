@@ -16,9 +16,9 @@ Shaking Things Up
 -----------------
 Crystal wanted a headboard, and I wanted to save money. So we set out with the
 idea of building our own on the cheap. Pinterest is amazing for things like this,
-and she quickly stumbled across a DIY project that made a beautiful headboard
-out of some affordable boards. One day, she showed up at home with four 1X6 boards,
-a sanding block, and a can of stain.
+and she quickly stumbled across [a DIY project](http://becauseiliketodecorate.com/2012/01/04/diy-rustic-headboard-tutorial/)
+that made a beautiful headboard out of some affordable boards. One day, she
+showed up at home with four 1X6 boards, a sanding block, and a can of stain.
 
 The idea was simple enough: sand down the boards, apply the stain, and voila,
 beautiful home decor! But a problem remained... how would we affix the boards to
