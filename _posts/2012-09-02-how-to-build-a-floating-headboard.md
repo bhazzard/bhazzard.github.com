@@ -16,7 +16,8 @@ Shaking Things Up
 -----------------
 Crystal wanted a headboard, and I wanted to save money. So we set out with the
 idea of building our own on the cheap. Pinterest is amazing for things like this,
-and she quickly stumbled across [a DIY project](http://becauseiliketodecorate.com/2012/01/04/diy-rustic-headboard-tutorial/)
+and she quickly stumbled across
+[a DIY project](http://becauseiliketodecorate.com/2012/01/04/diy-rustic-headboard-tutorial/)
 that made a beautiful headboard out of some affordable boards. One day, she
 showed up at home with four 1X6 boards, a sanding block, and a can of stain.
 
@@ -32,7 +33,8 @@ most friendly to walls.
 Hanging on by a Thread
 ----------------------
 By pure dumb luck, we happened to be hanging picture frames in a massive wall
-collage around this time. Our solution for this: Command Strips by 3M. These small
+collage around this time. Our solution for this:
+[Command Strips by 3M](http://amzn.to/NkMTFm). These small
 velcro strips are amazing for hanging lighter things that you may want to move
 around. So while we were in the store buying some more of these strips to complete
 the collage project, it occurred to me... why not use these same strips for the
@@ -46,3 +48,11 @@ Wow, that was Easy!
 We slapped a couple command strips on each board and on the wall, and we were
 done. No drilling, screwing, or hammering required! Huge home decor BANG for
 very little BUCK. Easy projects tend to be fun projects.
+
+Update
+------
+Lots of commenters asked about the specifics of my bedroom furniture  and stain:
+- The stain on the boards is MixWax Wood Finish: Dark Walnut 2716
+- We used 4 [Command Strips](http://amzn.to/NkMTFm) per board for stability
+- The bed in the picture is a standard King size bed
+- We got the night stands from Target
