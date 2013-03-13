@@ -11,7 +11,7 @@ have just the right gift idea for you. A Diaper cake!
 It's got all the decorative beauty of a wedding cake, and all the sensibility of
 a box of diapers. My wife made one for her best friend, and just look at the results:
 
-![Diaper Cake](/assets/images/diaper_cake_finished.jpg "The Finished Product")
+<img src="/assets/images/diaper_cake_finished.jpg" alt="Diaper Cake" style="width: 575px;" />
 
 Cool! Teach Me How!
 -------------------
@@ -36,7 +36,7 @@ ribbon and a fluffy pink tiara.
 
 Method
 ------
-![How to make a diaper cake](/assets/images/diaper_cake_progress.jpg "In progress!")
+<img src="/assets/images/diaper_cake_progress.jpg" alt="In progress!" style="width:575px;" />
 
 Shove 30 diapers into the bottom layer and then spread them until there is a
 hole approximately in the center, and the edges look about the way you want. The
