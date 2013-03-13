@@ -38,7 +38,7 @@ Method
 ------
 <img src="/assets/images/diaper_cake_progress.jpg" alt="In progress!" style="width:575px;" />
 
-Shove 30 diapers into the bottom layer and then spread them until there is a
+Shove 30 diapers into the large pan and then spread them until there is a
 hole approximately in the center, and the edges look about the way you want. The
 diapers should be approximately 1/2 an inch apart.
 
