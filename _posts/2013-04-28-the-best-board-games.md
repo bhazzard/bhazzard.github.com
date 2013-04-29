@@ -22,6 +22,14 @@ Ticket to Ride is the epitomy of simple rules that somehow manage to provide a
 depth of strategy and tactics that can bring out the gamer in anyone. This one
 has universal appeal.
 
+My wife is ga-ga for Ticket to Ride, and simply refers to it as "trains", as in
+"let's play Trains!". If you think you like board games, there is simply no
+reason not to own this one.
+
+- Accessible rules
+- Lots of small decisions
+- Can be played friendly, or cutthroat
+
 Where to get it
 ---------------
 [Ticket to Ride on Amazon](http://amzn.to/1293IVP)
@@ -40,6 +48,10 @@ of cards, and any given game uses 10 of them. Throughout the game each player
 builds up their own personal deck to play with. This one also has universal
 appeal.
 
+- Innovative "Deck Building" Mechanism
+- Tons of variety and replayability
+- Fascinating card interactions
+
 Where to get it
 ---------------
 [Dominion on Amazon](http://amzn.to/11v5otO)
@@ -56,6 +68,10 @@ In Pandemic, players work together to save humanity from global outbreaks. Who
 would have thought that team work could be so fun! Pandemic is awesome for any
 situation, but it is a god-send for families with kids who are prone to arguing
 or whining in competitive games when things don't go their way.
+
+- Super awesome theme
+- Teamwork, rather than competition
+- Fun, puzzly challenge
 
 Where to get it
 ---------------
@@ -77,6 +93,9 @@ Most players are loyal members of the resistance, but a few are spies for the
 corrupt goverment. The spies know each other's identities, but everyone else is
 in the dark. The game is about deduction and deceipt... and it is a blast!
 
+- Panic-inducing suspenseful gameplay
+- A shouting match has never been so fun!
+
 Where to get it
 ---------------
 [The Resistance on Amazon](http://amzn.to/12FtVhG)
@@ -89,7 +108,12 @@ Where to get it
 
 Why it's one of the best board games
 ------------------------------------
+7 Wonders let's you play a great game, with lots of players (up to 7), and a
+short playing time. Because everyone chooses their action simultaneously, You
+can add players without adding length.
 
+- Scales well between 3 and 7 players
+- Lots of ways to win
 
 Where to get it
 ---------------
@@ -103,25 +127,16 @@ Stone Age
 
 Why it's one of the best board games
 ------------------------------------
+In Stone Age, players build up a tribe of workers and deploy them to gather
+resources, and develop culture. The best part is that it lets you experience the
+thrill and luck of the dice, without being a slave to their unlucky whims. 
 
+- Mitigated luck
+- A smelly leather cup
 
 Where to get it
 ---------------
 [Stone Age on Amazon](http://amzn.to/186oOu4)
-
-***
-
-Power Grid
-===================
-<a href="http://www.amazon.com/gp/product/B0007YDBLE/ref=as_li_ss_il?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0007YDBLE&linkCode=as2&tag=briahazzcons-20"><img border="0" src="http://ws.assoc-amazon.com/widgets/q?_encoding=UTF8&ASIN=B0007YDBLE&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=briahazzcons-20" ></a><img src="http://www.assoc-amazon.com/e/ir?t=briahazzcons-20&l=as2&o=1&a=B0007YDBLE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-Why it's one of the best board games
-------------------------------------
-
-
-Where to get it
----------------
-[Power Grid on Amazon](http://amzn.to/Y7dppQ)
 
 ***
 
@@ -131,22 +146,18 @@ Space Alert
 
 Why it's one of the best board games
 ------------------------------------
+*WARNING* This one isn't for everyone *WARNING* It's fairly complex, and takes
+several plays just to learn the basic rules. On the other hand, the time
+investment is worth it if you like science fiction and team work.
 
+Space Alert is a real-time, cooperative game. It doesn't have turns. Instead
+a soundtrack provides a timer mechanism and announces the arrival of enemies. I
+can't really describe how crazy this game can get.
+
+- Unique real-time play
+- Chaotic gameplay
+- Awesome teamwork
 
 Where to get it
 ---------------
 [Space Alert on Amazon](http://amzn.to/186pcsF)
-
-***
-
-Race for the Galaxy
-===================
-<a href="http://www.amazon.com/gp/product/B000YLAOEW/ref=as_li_ss_il?ie=UTF8&camp=1789&creative=390957&creativeASIN=B000YLAOEW&linkCode=as2&tag=briahazzcons-20"><img border="0" src="http://ws.assoc-amazon.com/widgets/q?_encoding=UTF8&ASIN=B000YLAOEW&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=briahazzcons-20" ></a><img src="http://www.assoc-amazon.com/e/ir?t=briahazzcons-20&l=as2&o=1&a=B000YLAOEW" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-Why it's one of the best board games
-------------------------------------
-
-
-Where to get it
----------------
-[Race for the Galaxy on Amazon](http://amzn.to/10MsvVI)
