@@ -26,6 +26,7 @@ Where to get it
 ---------------
 [Ticket to Ride on Amazon](http://amzn.to/1293IVP)
 
+***
 
 Dominion
 ===================
@@ -43,6 +44,7 @@ Where to get it
 ---------------
 [Dominion on Amazon](http://amzn.to/11v5otO)
 
+***
 
 Pandemic
 ===================
@@ -59,6 +61,7 @@ Where to get it
 ---------------
 [Pandemic on Amazon](http://amzn.to/ZI6tlk)
 
+***
 
 The Resistance
 ===================
@@ -78,6 +81,7 @@ Where to get it
 ---------------
 [The Resistance on Amazon](http://amzn.to/12FtVhG)
 
+***
 
 7 Wonders
 ===================
@@ -91,6 +95,7 @@ Where to get it
 ---------------
 [7 Wonders on Amazon](http://amzn.to/11Q4uZo)
 
+***
 
 Stone Age
 ===================
@@ -100,11 +105,11 @@ Why it's one of the best board games
 ------------------------------------
 
 
-
 Where to get it
 ---------------
 [Stone Age on Amazon](http://amzn.to/186oOu4)
 
+***
 
 Power Grid
 ===================
@@ -118,6 +123,7 @@ Where to get it
 ---------------
 [Power Grid on Amazon](http://amzn.to/Y7dppQ)
 
+***
 
 Space Alert
 ===================
@@ -131,6 +137,7 @@ Where to get it
 ---------------
 [Space Alert on Amazon](http://amzn.to/186pcsF)
 
+***
 
 Race for the Galaxy
 ===================
@@ -138,10 +145,6 @@ Race for the Galaxy
 
 Why it's one of the best board games
 ------------------------------------
-
-
-Who will enjoy it
-------------------
 
 
 Where to get it
