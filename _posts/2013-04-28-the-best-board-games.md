@@ -161,3 +161,10 @@ can't really describe how crazy this game can get.
 Where to get it
 ---------------
 [Space Alert on Amazon](http://amzn.to/186pcsF)
+
+--------------------------------------------------------------------------------
+> Full Disclosure: The outbound links above are affiliate links. If you purchase
+> those items through my links I will earn a commission. You will not pay more
+> when buying a product through my link. Plus, when you order through my link,
+> it helps me to continue writing new content. Thank you for your support!
+--------------------------------------------------------------------------------
