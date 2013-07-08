@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hazzard's Hypotheses
+title: Brian Hazzard's Board Games Blog
 ---
 <ul class="posts">
   {% for post in site.posts %}
