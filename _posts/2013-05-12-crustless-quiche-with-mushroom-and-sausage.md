@@ -9,6 +9,8 @@ an absolute nut for delicious homemade food, she took the responsibility to feed
 her guests very seriously. I had the privilege of helping her taste-test many of
 the foods that she was considering for the menu.
 
+<!-- more -->
+
 One of the awesome recipes that made the final menu was Pioneer Woman's
 Stuffed Mushrooms. This is a mouthwatering appetizer of mushrooms filled with
 a hot italian sausage, thyme, and cream cheese stuffing. She calls for white
@@ -54,7 +56,7 @@ Stuffed Mushroom Filling
 - 1/2 medium Onion, diced
 - 4 cloves Garlic, minced
 - 1/3 cup Dry White Wine
-    	
+
 1. Brown and crumble sausage. Set aside on a plate to cool
 2. Add onions and garlic to the same skillet; cook for 2 minutes over medium low heat
 3. Pour in wine to deglaze pan, allow liquid to evaporate
