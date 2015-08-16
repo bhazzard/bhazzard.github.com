@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Brian Hazzard's Board Games Blog
+title: Hazzard Family Blog
 ---
 <ul class="posts">
   {% for post in site.posts %}
