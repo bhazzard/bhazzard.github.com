@@ -2,6 +2,7 @@
 layout: post
 category : family
 tags : [how-to, decor, life, baby-shower]
+cover-photo: /assets/images/diaper_cake_finished.jpg
 ---
 
 So your best friend is pregnant, and you want to give them something that comes
