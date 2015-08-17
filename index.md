@@ -14,6 +14,8 @@ title: Hazzard Family Blog
           {% else %}
             {{ post.content | strip_html | truncatewords:100 }}
           {% endif %}
+
+          <a href="{{ BASE_PATH }}{{ post.url }}">[Read More]</a>
       </div>
     </li>
   {% endfor %}
