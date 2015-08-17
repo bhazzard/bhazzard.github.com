@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Hazzard Family Blog
 ---
 <ul class="index_posts posts">
   {% for post in site.posts %}
