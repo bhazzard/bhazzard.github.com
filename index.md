@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: index
 ---
 <ul class="index_posts posts">
   {% for post in site.posts %}
