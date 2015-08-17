@@ -16,6 +16,8 @@ title: Hazzard Family Blog
           {% endif %}
 
           <a href="{{ BASE_PATH }}{{ post.url }}">[Read More]</a>
+
+          <hr />
       </div>
     </li>
   {% endfor %}

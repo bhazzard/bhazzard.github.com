@@ -89,7 +89,7 @@ body {
 }
 
 .index_title {
-  font-size: large;
+  font-size: 24px;
 }
 
 .index_date {
@@ -99,4 +99,8 @@ body {
 
 ul.index_posts {
   list-style-type: none;
+}
+
+.index_posts li {
+  margin-bottom: 25px;
 }
