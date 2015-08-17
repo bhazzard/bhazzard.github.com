@@ -9,7 +9,7 @@ title: Hazzard Family Blog
       <div class="index_date">{{ post.date | date_to_string }}</div>
 
       {% if post.cover-photo %}
-        <img src="post.cover-photo"></img>
+        <img src="{{ post.cover-photo }}"></img>
       {% endif %}
 
       <div class="post-content-truncate">
