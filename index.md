@@ -12,7 +12,7 @@ title: Hazzard Family Blog
           {% if post.content contains "<!-- more -->" %}
             {{ post.content | split:"<!-- more -->" | first % }}
           {% else %}
-            {{ post.content | strip_html | truncatewords:100 }}
+            <p>{{ post.content | strip_html | truncatewords:100 }}</p>
           {% endif %}
 
           <a href="{{ BASE_PATH }}{{ post.url }}">[Read More]</a>
