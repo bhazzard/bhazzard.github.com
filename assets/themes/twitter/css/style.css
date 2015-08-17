@@ -105,3 +105,8 @@ ul.index_posts {
 .index_posts li {
   margin-bottom: 25px;
 }
+
+body p {
+  line-height: 23px;
+  font-size: 15px;
+}
