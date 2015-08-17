@@ -97,6 +97,6 @@ body {
   margin-bottom: 10px;
 }
 
-ul .index_posts {
+ul.index_posts {
   list-style-type: none;
 }
