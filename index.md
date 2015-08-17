@@ -2,18 +2,18 @@
 layout: page
 title: Hazzard Family Blog
 ---
-<ul class="posts">
+<ul class="index_posts posts">
   {% for post in site.posts %}
     <li>
-    <span>{{ post.date | date_to_string }}</span> -
-    <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
+      <a class="index_title" href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
+      <div class="index_date">{{ post.date | date_to_string }}</div>
 
-    <div class="post-content-truncate">
-        {% if post.content contains "<!-- more -->" %}
-          {{ post.content | split:"<!-- more -->" | first % }}
-        {% else %}
-          {{ post.content | strip_html | truncatewords:100 }}
-        {% endif %}
+      <div class="post-content-truncate">
+          {% if post.content contains "<!-- more -->" %}
+            {{ post.content | split:"<!-- more -->" | first % }}
+          {% else %}
+            {{ post.content | strip_html | truncatewords:100 }}
+          {% endif %}
       </div>
     </li>
   {% endfor %}

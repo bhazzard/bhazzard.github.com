@@ -69,7 +69,6 @@ body {
 	color:#FFF;
 }
 
-/* Added for "Read More" functionality */
 .post-content-truncate h1 {
 	font-size: 33.75px;
 	color: #333;
@@ -87,4 +86,17 @@ body {
 
 .post-content-truncate img {
 	max-width: 400px;
+}
+
+.index_title {
+  font-size: large;
+}
+
+.index_date {
+  font-size: smaller;
+  margin-bottom: 10px;
+}
+
+ul .index_posts {
+  list-style-type: none;
 }
