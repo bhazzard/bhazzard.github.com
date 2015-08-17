@@ -7,9 +7,7 @@ tags : [leftovers, food, breakfast]
 Recently my wife was throwing a baby shower for a dear friend. Because she is
 an absolute nut for delicious homemade food, she took the responsibility to feed
 her guests very seriously. I had the privilege of helping her taste-test many of
-the foods that she was considering for the menu.
-
-<!-- more -->
+the foods that she was considering for the menu.<!-- more -->
 
 One of the awesome recipes that made the final menu was Pioneer Woman's
 Stuffed Mushrooms. This is a mouthwatering appetizer of mushrooms filled with
