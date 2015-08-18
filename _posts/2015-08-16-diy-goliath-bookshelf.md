@@ -3,7 +3,7 @@ layout: post
 category : food
 tags : [diy, home, decor]
 ---
-<img alt="Finished Bookshelf" src="/assets/images/bookshelf/finished_bookshelf2.jpeg" style="width: 575px;"></img>
+<img alt="Finished Bookshelf" src="/assets/images/bookshelf/finished_bookshelf2.jpeg" style="width: 575px;" />
 
 We are trying to save as much as we can so that we can remodel our kitchen ASAP, so we have started trying our hand at building some of our own furniture. Technically, our first project was a <a target="_blank" href="/home/2012/09/02/how-to-build-a-floating-headboard/">floating headboard</a> a few years ago. It was a simple project that didn't require any sawing, drilling, or screwing.
 
@@ -13,7 +13,8 @@ For our second project we decided one of the empty walls in our living room need
 
 We based our plans off of this plan from Ana-White.com, but modified it greatly to meet our needs. First, we made it taller and wider. We swapped 2X12X8's for the outer boards to give it a substantial appearance. Finally, we removed the vertical shelf dividers; we thought they would be too much, and since we added an extra shelf to make it taller, the pattern would have been asymmetrical.
 
-##Plans
+#Plans
+
 Supplies:
 =========
 - 3 - 2x12x8 Yellow Pine
@@ -53,11 +54,11 @@ Instructions:
 
 And thats it, you have yourself a bookshelf! Here is our finished product:
 
-<img alt="Finished Bookshelf" src="/assets/images/bookshelf/finished_bookshelf1.jpeg" style="width: 575px;"></img>
+<img alt="Finished Bookshelf" src="/assets/images/bookshelf/finished_bookshelf1.jpeg" style="width: 575px;"/>
 
 We are still searching for the perfect decor, but honestly it will probably stay like this for a while. We even found a way to get some of our boardgames into the living room without being an eyesore. Those bottom baskets are filled with boardgames!
 
-<img alt="boardgames in boxes" src="/assets/images/bookshelf/game_boxes.jpeg" style="width: 575px;"></img>
+<img alt="boardgames in boxes" src="/assets/images/bookshelf/game_boxes.jpeg" style="width: 575px;"/>
 
 Notes:
 - We purchased all our wood from 84 lumber, as they were the only place we could find that carried 2x12x8
