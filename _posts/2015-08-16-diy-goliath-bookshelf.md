@@ -3,7 +3,7 @@ title: DIY Goliath Bookshelf
 layout: post
 category : food
 tags : [diy, home, decor]
-cover-photo: /assets/images/bookshelf/finished_bookshelf1.jpeg
+cover-photo: /assets/images/bookshelf/finished_bookshelf2.jpeg
 ---
 <img alt="Finished Bookshelf" src="/assets/images/bookshelf/finished_bookshelf2.jpeg" style="width: 575px;" />
 
@@ -49,10 +49,7 @@ Instructions:
 2. Drill pocket holes. You will need to use the Kreg Jig to drill 4 pocket holes for each of the 48 inch boards. Follow the Jig's instructions to make sure that you drill the appropriate depths.
 3. Sand each board to provide an even surface for staining. I'll be honest, I'm not sure this step is all that important, but serious woodworkers seem to swear by it.
 4. Apply pre-stain. This is especially important when using cheap, hard to stain woods like pine.
-5. Stain the wood. It is a good idea to the try the stain out on a extra wood piece to check how long the stain should sit. I recommend doing this to make sure get the color you desire. It turned out for us, the time didn’t really seem to matter and the 5, 10, & 15 min sections all looked the same. Here is a photo during the staining process. You can see the wood in all the different stages:
-
-<img alt="Staining Process" src="/assets/images/bookshelf/staining_process.JPG" style="width: 575px;"/>
-
+5. Stain the wood. It is a good idea to the try the stain out on a extra wood piece to check how long the stain should sit. I recommend doing this to make sure get the color you desire. It turned out for us, the time didn’t really seem to matter and the 5, 10, & 15 min sections all looked the same. Here is a photo during the staining process. You can see the wood in all the different stages: <img alt="Staining Process" src="/assets/images/bookshelf/staining_process.JPG" style="width: 575px; margin-top: 10px;"/>
 6. Measure between the shelves evenly and drill a pilot hole through the pocket hole. Otherwise, you'll get gaps between the shelves and sides.
 7. Screw in the shelves, and stand it up.
 8. It'll be wobbly, that's why you need the L-Brackets. Attach one to each corner of the bookshelf on the backside.
