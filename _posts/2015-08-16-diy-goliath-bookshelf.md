@@ -5,7 +5,7 @@ category : food
 tags : [diy, home, decor]
 cover-photo: /assets/images/bookshelf/DIY-Goliath-Bookshelf.jpeg
 ---
-<img alt="Finished Bookshelf" src="/assets/images/bookshelf/finished_bookshelf2.jpeg" style="width: 575px;" />
+<img alt="DIY Goliath Bookshelf" src="/assets/images/bookshelf/DIY-Goliath-Bookshelf.jpeg" style="width: 575px;" />
 
 We are trying to save as much as we can so that we can remodel our kitchen ASAP, so we have started trying our hand at building some of our own furniture. Technically, our first project was a <a target="blank" href="/home/2012/09/02/how-to-build-a-floating-headboard/">floating headboard</a> a few years ago. It was a simple project that didn't require any sawing, drilling, or screwing.
 
