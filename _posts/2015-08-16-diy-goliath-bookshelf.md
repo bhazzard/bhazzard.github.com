@@ -3,7 +3,7 @@ title: DIY Goliath Bookshelf
 layout: post
 category : food
 tags : [diy, home, decor]
-cover-photo: /assets/images/bookshelf/DIY-Goliath-Bookshelf.jpeg
+cover-photo: /assets/images/bookshelf/DIY-Goliath-Bookshelf.jpg
 ---
 <img alt="Finished Bookshelf" src="/assets/images/bookshelf/finished_bookshelf2.jpeg" style="width: 575px;" />
 
