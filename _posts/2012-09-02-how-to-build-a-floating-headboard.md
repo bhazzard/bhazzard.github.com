@@ -3,6 +3,7 @@ layout: post
 category : home
 tags : [how-to, home, decor, life]
 cover-photo: /assets/images/headboard.JPG
+permalink: /home/2012/09/02/how-to-build-a-floating-headboard/
 ---
 
 My wife Crystal has been bugging me about our bedroom life for a while now. She
