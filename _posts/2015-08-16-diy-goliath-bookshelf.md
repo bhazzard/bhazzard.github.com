@@ -1,7 +1,7 @@
 ---
 title: DIY Goliath Bookshelf
 layout: post
-category : food
+category : home
 tags : [diy, home, decor]
 cover-photo: /assets/images/bookshelf/DIY-Goliath-Bookshelf.jpeg
 ---
@@ -13,7 +13,7 @@ Our first “real” build was a table to house our Big Green Egg (post coming s
 
 For our second project we decided one of the empty walls in our living room needed a bookcase, and since we have 22’ vaulted ceilings, it needed to be big. Specifically, we wanted to build it to be 7 feet tall, and 4 feet wide. I dubbed the project our "Goliath" shelf. As you can see, it turned out great.
 
-We based our plans off of this plan from Ana-White.com, but modified it greatly to meet our needs. First, we made it taller and wider. We swapped 2X12X8's for the outer boards to give it a substantial appearance. Finally, we removed the vertical shelf dividers; we thought they would be too much, and since we added an extra shelf to make it taller, the pattern would have been asymmetrical.
+We based our plans off of a plan from Ana-White.com, but modified it greatly to meet our needs. First, we made it taller and wider. We swapped 2X12X8's for the outer boards to give it a substantial appearance. Finally, we removed the vertical shelf dividers; we thought they would be too much, and since we added an extra shelf to make it taller, the pattern would have been asymmetrical.
 
 #Plans
 

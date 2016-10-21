@@ -56,3 +56,9 @@ Lots of commenters asked about the specifics of my bedroom furniture  and stain:
 - We used 4 [Command Strips](http://amzn.to/NkMTFm) per board for stability
 - The bed in the picture is a standard King size bed
 - We got the night stands from Target
+
+--------------------------------------------------------------------------------
+> Full Disclosure: The outbound links above are affiliate links. If you purchase
+> those items through my links I will earn a commission. You will not pay more
+> when buying a product through my link. Plus, when you order through my link,
+> it helps me to continue writing new content. Thank you for your support!
