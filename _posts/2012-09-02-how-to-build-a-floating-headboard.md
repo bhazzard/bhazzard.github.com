@@ -10,7 +10,7 @@ My wife Crystal has been bugging me about our bedroom life for a while now. She
 said it was boring and lacked interest... somehow, I hadn't noticed. Luckily for
 me, all it would take to liven up the mood is a new headboard.
 
-Eww, you thought I was talking about our sexlife? No, I'm talking home decor!
+Oh, you thought I was talking about our sexlife? No, I'm talking home decor!
 
 <img title="The Finished Product" alt="Headboard" style="width: 95%;" src="/assets/images/headboard.JPG" />
 
