@@ -12,7 +12,7 @@ me, all it would take to liven up the mood is a new headboard.
 
 Eww, you thought I was talking about our sexlife? No, I'm talking home decor!
 
-![Headboard](/assets/images/headboard.JPG "The Finished Product")
+<img title="The Finished Product" alt="Headboard" style="width: 95%;" src="/assets/images/headboard.JPG" />
 
 Shaking Things Up
 -----------------
@@ -50,10 +50,24 @@ We slapped a couple command strips on each board and on the wall, and we were
 done. No drilling, screwing, or hammering required! Huge home decor BANG for
 very little BUCK. Easy projects tend to be fun projects.
 
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "true";
+amzn_assoc_tracking_id = "briahazzcons-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "My Amazon Picks";
+amzn_assoc_linkid = "d009725f7c6df3c724352861e71d1033";
+amzn_assoc_asins = "B00404YKZI,B001CESFSM,B004BPSJRG,B00065WPP2";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
 Update
 ------
 Lots of commenters asked about the specifics of my bedroom furniture  and stain:
-- The stain on the boards is MixWax Wood Finish: Dark Walnut 2716
+- The stain on the boards is MinWax Wood Finish: Dark Walnut 2716
 - We used 4 [Command Strips](http://amzn.to/NkMTFm) per board for stability
 - The bed in the picture is a standard King size bed
 - We got the night stands from Target
