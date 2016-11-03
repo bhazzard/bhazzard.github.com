@@ -66,7 +66,8 @@ amzn_assoc_asins = "B00404YKZI,B001CESFSM,B004BPSJRG,B00065WPP2";
 
 Update
 ------
-Lots of commenters asked about the specifics of my bedroom furniture  and stain:
+Lots of commenters asked about the specifics of my bedroom furniture and stain:
+
 - The stain on the boards is MinWax Wood Finish: Dark Walnut 2716
 - We used 4 [Command Strips](http://amzn.to/NkMTFm) per board for stability
 - The bed in the picture is a standard King size bed
