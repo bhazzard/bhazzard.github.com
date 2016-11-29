@@ -68,7 +68,7 @@ Update
 If you loved this post, you might like to read about [how you can build a gorgeous
 Hardwood Bed Frame on the cheap](/home/2016/11/29/how-to-build-a-bed-frame/ "How to Build a Bed Frame")
 
-<a target="blank" href="/home/2016/11/29/how-to-build-a-bed-frame/" title="How to Build a Bed Frame"><img src="/assets/images/bedframe/Bed.JPG" alt="How to build a Bed Frame"/></a>
+<a target="blank" href="/home/2016/11/29/how-to-build-a-bed-frame/" title="How to Build a Bed Frame"><img src="/assets/images/bedframe/BedFrameCover.JPG" alt="How to build a Bed Frame"/></a>
 
 Lots of commenters asked about the specifics of my headboard and stain:
 

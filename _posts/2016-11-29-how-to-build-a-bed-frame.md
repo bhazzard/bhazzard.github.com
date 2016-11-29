@@ -3,13 +3,13 @@ title: How to Build a Bed Frame
 layout: post
 category : home
 tags : [how-to, diy, home, decor]
-cover-photo: /assets/images/bedframe/Bed.JPG
+cover-photo: /assets/images/bedframe/BedFrameCover.JPG
 ---
+![Finished Bed Frame](/assets/images/bedframe/BedFrameCover.JPG "Finished Bed Frame")
+
 Despite being in our thirties, and married for eight years, my wife and I still slept with our bed on the floor like we did in our off campus college apartment back in 2005. Go Duke Dogs!
 
 Since we have a baby on the way, we decided it was time to grow up and get an adult bed frame. However, when we started looking for beds, we were quickly reminded why we hadn’t taken the plunge earlier: $$$! All the king bed frames with a style we enjoyed were in the $500 - $700 price range. We weren’t excited about making that kind of investment just before having a baby. So, we made a choice that was a no brainer for us: to build it ourselves.
-
-![Finished Bed Frame](/assets/images/bedframe/Bed.JPG "Finished Bed Frame")
 
 I think the results are awesome. What do you think? Let us know in the comments.
 
