@@ -34,8 +34,7 @@ most friendly to walls.
 Hanging on by a Thread
 ----------------------
 By pure dumb luck, we happened to be hanging picture frames in a massive wall
-collage around this time. Our solution for this:
-[Command Strips by 3M](http://amzn.to/NkMTFm). These small
+collage around this time. Our solution for this: <a target="blank" href="http://amzn.to/NkMTFm"><Command Strips by 3M</a>. These small
 velcro strips are amazing for hanging lighter things that you may want to move
 around. So while we were in the store buying some more of these strips to complete
 the collage project, it occurred to me... why not use these same strips for the
@@ -66,12 +65,16 @@ amzn_assoc_asins = "B00404YKZI,B001CESFSM,B004BPSJRG,B00065WPP2";
 
 Update
 ------
-Lots of commenters asked about the specifics of my bedroom furniture and stain:
+If you loved this post, you might like to read about [how you can build a gorgeous
+Hardwood Bed Frame on the cheap](/home/2016/11/29/how-to-build-a-bed-frame/ "How to Build a Bed Frame")
+
+<a target="blank" href="/home/2016/11/29/how-to-build-a-bed-frame/" title="How to Build a Bed Frame"><img src="/assets/images/bedframe/Bed.JPG" alt="How to build a Bed Frame"/></a>
+
+Lots of commenters asked about the specifics of my headboard and stain:
 
 - The stain on the boards is MinWax Wood Finish: Dark Walnut 2716
-- We used 4 [Command Strips](http://amzn.to/NkMTFm) per board for stability
+- We used 4 <a target="blank" href="http://amzn.to/NkMTFm">Command Strips</a> per board for stability
 - The bed in the picture is a standard King size bed
-- We got the night stands from Target
 
 --------------------------------------------------------------------------------
 > Full Disclosure: The outbound links above are affiliate links. If you purchase

@@ -15,10 +15,11 @@ For our second project we decided one of the empty walls in our living room need
 
 We based our plans off of a plan from Ana-White.com, but modified it greatly to meet our needs. First, we made it taller and wider. We swapped 2X12X8's for the outer boards to give it a substantial appearance. Finally, we removed the vertical shelf dividers; we thought they would be too much, and since we added an extra shelf to make it taller, the pattern would have been asymmetrical.
 
-#Plans
+Plans
+=====
 
 Supplies:
-=========
+---------
 - 3 - 2x12x8 Yellow Pine
 - 3 - 1x12x8 White Spruce
 - Sandpaper
@@ -30,7 +31,7 @@ Supplies:
 - Drop cloth
 
 Tools:
-======
+------
 - <a target="blank" href="http://amzn.to/1Mxu0Mh">Kreg Jig</a>
 - Clamp
 - Miter saw
@@ -38,13 +39,13 @@ Tools:
 - Sander
 
 Cut List:
-=========
+---------
 - 2 - 2x12 @ 84”
 - 2 - 2x12 @ 48”
 - 5 - 1x12 @ 48”
 
 Instructions:
-=============
+-------------
 1. Cut boards according to the cut list above.
 2. Drill pocket holes. You will need to use the Kreg Jig to drill 4 pocket holes for each of the 48 inch boards. Follow the Jig's instructions to make sure that you drill the appropriate depths.
 3. Sand each board to provide an even surface for staining. I'll be honest, I'm not sure this step is all that important, but serious woodworkers seem to swear by it.
