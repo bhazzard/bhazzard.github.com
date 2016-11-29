@@ -5,7 +5,7 @@ category : home
 tags : [how-to, diy, home, decor]
 cover-photo: /assets/images/bedframe/BedFrameCover.JPG
 ---
-![Finished Bed Frame](/assets/images/bedframe/BedFrameCover.JPG "Finished Bed Frame")
+![How to Build a King Size Bed Frame](/assets/images/bedframe/BedFrameCover.JPG "How to build a King Size Bed Frame")
 
 Despite being in our thirties, and married for eight years, my wife and I still slept with our bed on the floor like we did in our off campus college apartment back in 2005. Go Duke Dogs!
 
