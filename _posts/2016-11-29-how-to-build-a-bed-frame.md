@@ -63,6 +63,7 @@ Instructions
 ============
 
 First, we cut the wood. Here is our cut list:
+
 - Outer Frame:
   - Cut 2 of the 8’ 1”x6” Red Oak boards to 81” long for the side boards
   - Cut the other 2 of the 8’ 1”x6” Red Oak boards to 78.5” long for the head/foot boards
