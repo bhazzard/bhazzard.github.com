@@ -9,18 +9,20 @@ Today my mom called me to let me know that my Grandmom had passed away. She was 
 
 Her husband survives her. As do her five children, and their families. She will be remembered by so many family members, and the countless people whose lives she has touched over the years. I hope that they all can find comfort in her passing.
 
-#Remembering Grandmom
+# Remembering Grandmom
 When I was a boy, my cousin Renee teased me once that Grandmom was hers, not mine. I was concerned, so I marched right up to Grandmom to verify what I had been told.
 
-"Are you mine?" I asked her.
+>"Are you mine?" I asked her.
 
-"Always," She said.
+>"Always," She said.
 
 Of course, I was too young to remember this first hand, but I was told this story throughout my childhood. And it became a traditional greeting and goodbye between my Grandmom and I. "Are you mine?" one of us would ask the other as we hugged or kissed, whether a hello or a goodbye.
 
-Because of her dementia, she wasn't always lucid when I visited during her last years. But I was blessed to have the opportunity to visit her a little over a month before she passed. I sang to her, and told her stories I remembered about when I would stay with her and Granddad. She smiled, and remembered the stories with me. And when I left her that final time I asked her again "Are you mine?"
+Because of her dementia, she wasn't always lucid when I visited during her last years. But I was blessed to have the opportunity to visit her a little over a month before she passed. I sang to her, and told her stories I remembered about when I would stay with her and Granddad. She smiled, and remembered the stories with me. And when I left her that final time I asked her again...
 
-"Always," She said.
+>"Are you mine?"
+
+>"Always," She said.
 
 <img title="My Grandmom was Beautiful" alt="Grandmom was beautiful" style="width: 95%;" src="/assets/images/grandmom/Grandmom2.jpg" />
 
@@ -30,7 +32,7 @@ I was once a Christian too. I found comfort in the simple answers to what comes 
 
 Since I outgrew my childhood faith, I haven't had to face death head-on. Now I have to. I spoke with my sister today, and she shared a sentiment that resonated with me... My Grandmom's passing isn't only the death of a beloved childhood caregiver, and my extended family's matriarch. Her passing foreshadows the future losses that I will have to cope with. And so, I am pondering death, and how a atheist like me can find comfort in the loss of loved ones without God.
 
-#What I believe
+# What I believe
 Luckily, I am not without a belief system that works for me because it is based only on empirical evidence. It consists of a few observations I have taken mostly from my studies of Buddhist thought, and confirmed with my own contemplation and direct observation.
 
 1. Nothing happens without a cause.
@@ -49,7 +51,7 @@ Also, remember when I said "Nothing happens without a cause"? It turns out that 
 
 <img title="My Grandmom was a teacher" alt="Grandmom was a teacher" style="width: 95%;" src="/assets/images/grandmom/Grandmom1.jpg" />
 
-#Looking Forward
+# Looking Forward
 I don't know if I'll always be able to cope with loss with such peaceful ease. My grandparents had been married for seventy-two years. That's quite an accomplishment. It makes me reflect on my relationship with my wife, Crystal. We've been together for fifteen years, and married for eight. She's my best friend, my lover, my co-parent, my business partner, and my comedic relief. I love her endlessly, and I rely on her immensely. I think my Granddad probably felt similarly about Grandmom. I can't imagine the pain I would feel if she were suddenly gone. Even if I felt that her passing was probably the best outcome for her, like I do about Grandmom.
 
 It is comforting to know that if and when the time comes that death is not an end, it can be beautiful, and that peace is available.
