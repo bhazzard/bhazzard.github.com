@@ -5,7 +5,7 @@ tags : [life]
 cover-photo: /assets/images/grandmom/Grandmom1.jpg
 ---
 
-Today my mom called me to let me know that my Grandmom had passed away. She was 92 years old, and had been suffering from dementia for several years. I'm glad her pain and confusion is finally over.
+Today my mom called me to let me know that my Grandmom had passed away. She was 91 years old, and had been suffering from dementia for several years. I'm glad her pain and confusion is finally over.
 
 Her husband survives her. As do her five children, and their families. She will be remembered by so many family members, and the countless people whose lives she has touched over the years. I hope that they all can find comfort in her passing.
 
@@ -30,7 +30,7 @@ My Grandmom was a Christian, and she loved hymns. How wonderful then that she pa
 
 I was once a Christian too. I found comfort in the simple answers to what comes after death. I'm happy that so many in my family still find comfort in those answers. I cannot. I am by nature a skeptic. My mind was always wired to question everything until a verifiable answer presents itself. If YOU believe in God, you could say he made me this way.
 
-Since I outgrew my childhood faith, I haven't had to face death head-on. Now I have to. I spoke with my sister today, and she shared a sentiment that resonated with me... My Grandmom's passing isn't only the death of a beloved childhood caregiver, and my extended family's matriarch. Her passing foreshadows the future losses that I will have to cope with. And so, I am pondering death, and how a atheist like me can find comfort in the loss of loved ones without God.
+Since I outgrew my childhood faith, I haven't had to face death head-on. Now I have to. I spoke with my sister today, and she shared a sentiment that resonated with me... My Grandmom's passing isn't only the death of a beloved childhood caregiver, and my extended family's matriarch. Her passing foreshadows the future losses that I will have to cope with. And so, I am pondering death, and how an atheist like me can find comfort in the loss of loved ones without God.
 
 # What I believe
 Luckily, I am not without a belief system that works for me because it is based only on empirical evidence. It consists of a few observations I have taken mostly from my studies of Buddhist thought, and confirmed with my own contemplation and direct observation.
