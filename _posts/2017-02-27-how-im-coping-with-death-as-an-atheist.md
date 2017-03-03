@@ -26,7 +26,7 @@ Because of her dementia, she wasn't always lucid when I visited during her last 
 
 <img title="My Grandmom was Beautiful" alt="Grandmom was beautiful" style="width: 95%;" src="/assets/images/grandmom/Grandmom2.jpg" />
 
-My Grandmom was a Christian, and she loved hymns. How wonderful then that she passed away with her family singing Amazing Grace to her. I'm grateful to my Uncle Mike, Aunt Robin, and Cousin Hannah who were all able to visit with Granddad and to be with Grandmom during her final moments.
+My Grandmom was a Christian, and she loved hymns. How wonderful then that she passed away with her family singing Amazing Grace to her. I'm grateful to my Uncle Mike, Aunt Robin, and Cousins Hannah and Jared who were all able to visit with Granddad and to be with Grandmom during her final moments.
 
 I was once a Christian too. I found comfort in the simple answers to what comes after death. I'm happy that so many in my family still find comfort in those answers. I cannot. I am by nature a skeptic. My mind was always wired to question everything until a verifiable answer presents itself. If YOU believe in God, you could say he made me this way.
 
