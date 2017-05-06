@@ -26,8 +26,7 @@ We finally text Shalene and told her she should probably come to the house aroun
 
 The ride to the hospital was a hard one. We only live about 10 minutes from the hospital but it felt like it took forever and I had at least three contractions on the 10 minute drive. My biggest fear was that I would get to the hospital and I would only he 3-4 cm dilated since I seemed so far from labor just the day before. Thankfully when they checked me I was 7 cm dilated and 95% effaced. They also commented on how low he was in the birth canal.
 
-![Kissing during labor](/assets/images/birthstory/kiss.jpg)
-![Brian holding me up](/assets/images/birthstory/hug.jpg)
+![Laboring as a team](/assets/images/birthstory/labor.jpg)
 
 Things seem to escalate pretty quickly from that point and it all feels like a blur. The two things that I do remember from that time involve my OBGYN. First, I remember looking over in the middle intense contractions to see him sitting comfortably on the couch just watching me. At the time this made me quite angry, and I thought he should be doing something at that time and I felt discouraged that I wasn’t close enough to delivery for him to be getting ready, The second was when he told me that I need to reach down and pull out my baby. It was such an amazing experience to be able to bring him up to my chest myself and I still get teary eyed every time I think about it. I am so happy that we made the decision to do birth photography, as it is the only way that I am able to remember any other parts of that time since it all happened so fast. I checked into the hospital around 9:30 or 10PM and Declan was born at 11:29PM.
 
