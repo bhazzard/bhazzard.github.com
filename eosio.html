@@ -1,10 +1,14 @@
 <html>
   <head>
     <script type="application/javascript">
-      var eosio_url = window.location.hash.substr(1);
-      var encoded_payload = eosio_url.split('web+eosio://')[1]
+      var encoded_eosio_uri = window.location.hash.substr(1);
+      var decoded_eosio_uri = decodeURIComponent(encoded_eosio_uri);
+      
+      var encoded_payload = decoded_eosio_uri.split('web+eosio://')[1]
       var unencoded_payload = atob(encoded_payload);
+      
       var data = JSON.stringify(unencoded_payload);
+      
       document.getElementById("transaction").textContent = data.transaction;
     </script>
   <head>
