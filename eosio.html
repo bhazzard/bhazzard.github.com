@@ -1,0 +1,14 @@
+<html>
+  <head>
+    <script type="application/javascript">
+      var payload = atob(window.location.hash.substr(1));
+      
+      document.getElementById("transaction").textContent = payload.transaction;
+    </script>
+  <head>
+  <body>
+  
+    transaction content
+    <div id="transaction"></div>
+  </body>
+</html>
