@@ -1,9 +1,11 @@
 <html>
   <head>
     <script type="application/javascript">
-      var payload = atob(window.location.hash.substr(1));
-      var payload_json = JSON.stringify(payload);
-      document.getElementById("transaction").textContent = payload_json.transaction;
+      var eosio_url = window.location.hash.substr(1);
+      var encoded_payload = eosio_url.split('web+eosio://')[1]
+      var unencoded_payload = atob(encoded_payload);
+      var data = JSON.stringify(unencoded_payload);
+      document.getElementById("transaction").textContent = data.transaction;
     </script>
   <head>
   <body>
