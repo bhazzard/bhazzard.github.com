@@ -2,8 +2,8 @@
   <head>
     <script type="application/javascript">
       var payload = atob(window.location.hash.substr(1));
-      
-      document.getElementById("transaction").textContent = payload.transaction;
+      var payload_json = JSON.stringify(payload);
+      document.getElementById("transaction").textContent = payload_json.transaction;
     </script>
   <head>
   <body>
