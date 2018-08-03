@@ -5,9 +5,9 @@
       var decoded_eosio_uri = decodeURIComponent(encoded_eosio_uri);
       
       var encoded_payload = decoded_eosio_uri.split('web+eosio://')[1]
-      var unencoded_payload = atob(encoded_payload);
+      var decoded_payload = atob(encoded_payload);
       
-      var data = JSON.stringify(unencoded_payload);
+      var data = JSON.parse(decoded_payload);
       
       document.getElementById("transaction").textContent = data.transaction;
     </script>
