@@ -8,13 +8,15 @@
       var decoded_payload = atob(encoded_payload);
       
       var data = JSON.parse(decoded_payload);
-      
-      document.getElementById("transaction").textContent = data.transaction;
     </script>
   <head>
   <body>
   
     transaction content
     <div id="transaction"></div>
+    
+    <script type="application/javascript">
+      document.getElementById("transaction").textContent = JSON.stringify(data.transaction);
+    </script>
   </body>
 </html>
